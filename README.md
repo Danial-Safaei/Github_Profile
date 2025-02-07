@@ -1,6 +1,12 @@
 # ✨ Welcome to My Github Profile
 
-[Your detailed introduction goes here]
+# Introduction
+
+Hi, I'm Danial Safaei, a PhD student at the University of Warwick. My research focuses on generative AI and safety-critical scenario generation for autonomous vehicles.
+
+I have a background in Computer Engineering and Artificial Intelligence, with experience in machine learning, Bayesian networks, and traffic scenario analysis.
+
+Feel free to connect with me if you're interested in autonomous vehicles, generative AI, or Bayesian networks!
 
 ## Current Research Projects
 
