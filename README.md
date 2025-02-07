@@ -10,20 +10,9 @@ Feel free to connect with me if you're interested in autonomous vehicles, genera
 
 ## Current Research Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="assets/project1-badge.png" width="100" alt="Project 1"/><br/>
-        <b>Project 1</b>
-      </td>
-      <td align="center">
-        <img src="assets/project2-badge.png" width="100" alt="Project 2"/><br/>
-        <b>Project 2</b>
-      </td>
-    </tr>
-  </table>
-</div>
+![Static Badge](https://img.shields.io/badge/Generative%20AI%20for%20Scenario%20Generation-8A2BE2)
+
+![Static Badge](https://img.shields.io/badge/Fidelity%20of%20Synthetic%20Data-8A2BE2)
 
 ## Contributions
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark)
