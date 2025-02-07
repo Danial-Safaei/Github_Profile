@@ -40,5 +40,5 @@ Feel free to connect with me if you're interested in autonomous vehicles, genera
 
 <!-- Snake contribution graph -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Danial-Safaei/Danial-Safaei/output/github-contribution-grid-snake.svg" />
 </div>
