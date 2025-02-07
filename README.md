@@ -14,8 +14,8 @@ Feel free to connect with me if you're interested in autonomous vehicles, genera
 
 ![Static Badge](https://img.shields.io/badge/Fidelity%20of%20Synthetic%20Data-8A2BE2)
 
-## Contributions
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark)
+<!-- ## Contributions
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark) -->
 
 ## Experience & Tools
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -28,14 +28,14 @@ Feel free to connect with me if you're interested in autonomous vehicles, genera
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-## GitHub Stats
+<!-- ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
 
 ### Contribution Streak
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark) -->
 
 
 <!-- Snake contribution graph -->
